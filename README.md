@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssolerg
-- 👀 I’m DevOps at acium inc.
-- www.acium.io
+- 👀 I’m DevOps at itopia, inc.
+- www.itopia.com
 
 <!---
 ssolerg/ssolerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
